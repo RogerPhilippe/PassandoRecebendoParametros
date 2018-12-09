@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PassandoRecebendoParametros</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_enviar_receber">Enviar e Receber</string>
+    <string name="btn_retornar">Retornar Resultado</string>
+    <string name="btn_resultado">Resultado</string>
+    <string name="btn_enviar_object">Enviar via Objeto</string>
+</resources>
